@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\shx\documents\visual studio 2015\projects\testtcpclient1\testtcpclient1\main.cpp(35): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“const char *”
+c:\users\shx\documents\visual studio 2015\projects\testtcpclient1\testtcpclient1\main.cpp(23): warning C4101: “nb_loop”: 未引用的局部变量
+c:\users\shx\documents\visual studio 2015\projects\testtcpclient1\testtcpclient1\main.cpp(22): warning C4101: “nb_fail”: 未引用的局部变量
+c:\users\shx\documents\visual studio 2015\projects\testtcpclient1\testtcpclient1\main.cpp(24): warning C4101: “addr”: 未引用的局部变量
+  TestTcpClient1.vcxproj -> c:\users\shx\documents\visual studio 2015\Projects\TestTcpClient1\Debug\TestTcpClient1.exe
+  TestTcpClient1.vcxproj -> c:\users\shx\documents\visual studio 2015\Projects\TestTcpClient1\Debug\TestTcpClient1.pdb (Full PDB)
